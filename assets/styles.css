@@ -1,0 +1,42 @@
+nav {
+    color: rgb(255, 255, 255);
+}
+
+
+
+.picture-grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#profile-pic {
+    float: left;
+    margin: 10px;
+}
+
+#about-me {
+    border: 1px solid black
+}
+.row {
+    margin-top: 5px;
+}
+
+.page-header {
+    text-align: center;
+}
+#link-row {
+    margin-right: 10px;
+}
+body {
+    background-color: rgb(48, 181, 199);
+  }
+  
+  footer {
+Width: 100%;
+background-color: #222;
+padding: 60px 0px;
+  }
+
+
+ 
